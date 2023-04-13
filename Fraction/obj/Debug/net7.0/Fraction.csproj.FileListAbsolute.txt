@@ -1,0 +1,15 @@
+/Users/duchoang/Documents/T2207A-ASP/T2207A/Fraction/bin/Debug/net7.0/Fraction
+/Users/duchoang/Documents/T2207A-ASP/T2207A/Fraction/bin/Debug/net7.0/Fraction.deps.json
+/Users/duchoang/Documents/T2207A-ASP/T2207A/Fraction/bin/Debug/net7.0/Fraction.runtimeconfig.json
+/Users/duchoang/Documents/T2207A-ASP/T2207A/Fraction/bin/Debug/net7.0/Fraction.dll
+/Users/duchoang/Documents/T2207A-ASP/T2207A/Fraction/bin/Debug/net7.0/Fraction.pdb
+/Users/duchoang/Documents/T2207A-ASP/T2207A/Fraction/obj/Debug/net7.0/Fraction.csproj.AssemblyReference.cache
+/Users/duchoang/Documents/T2207A-ASP/T2207A/Fraction/obj/Debug/net7.0/Fraction.GeneratedMSBuildEditorConfig.editorconfig
+/Users/duchoang/Documents/T2207A-ASP/T2207A/Fraction/obj/Debug/net7.0/Fraction.AssemblyInfoInputs.cache
+/Users/duchoang/Documents/T2207A-ASP/T2207A/Fraction/obj/Debug/net7.0/Fraction.AssemblyInfo.cs
+/Users/duchoang/Documents/T2207A-ASP/T2207A/Fraction/obj/Debug/net7.0/Fraction.csproj.CoreCompileInputs.cache
+/Users/duchoang/Documents/T2207A-ASP/T2207A/Fraction/obj/Debug/net7.0/Fraction.dll
+/Users/duchoang/Documents/T2207A-ASP/T2207A/Fraction/obj/Debug/net7.0/refint/Fraction.dll
+/Users/duchoang/Documents/T2207A-ASP/T2207A/Fraction/obj/Debug/net7.0/Fraction.pdb
+/Users/duchoang/Documents/T2207A-ASP/T2207A/Fraction/obj/Debug/net7.0/Fraction.genruntimeconfig.cache
+/Users/duchoang/Documents/T2207A-ASP/T2207A/Fraction/obj/Debug/net7.0/ref/Fraction.dll

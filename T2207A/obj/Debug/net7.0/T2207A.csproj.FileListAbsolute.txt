@@ -1,0 +1,15 @@
+/Users/duchoang/Documents/T2207A-ASP/T2207A/T2207A/bin/Debug/net7.0/T2207A
+/Users/duchoang/Documents/T2207A-ASP/T2207A/T2207A/bin/Debug/net7.0/T2207A.deps.json
+/Users/duchoang/Documents/T2207A-ASP/T2207A/T2207A/bin/Debug/net7.0/T2207A.runtimeconfig.json
+/Users/duchoang/Documents/T2207A-ASP/T2207A/T2207A/bin/Debug/net7.0/T2207A.dll
+/Users/duchoang/Documents/T2207A-ASP/T2207A/T2207A/bin/Debug/net7.0/T2207A.pdb
+/Users/duchoang/Documents/T2207A-ASP/T2207A/T2207A/obj/Debug/net7.0/T2207A.csproj.AssemblyReference.cache
+/Users/duchoang/Documents/T2207A-ASP/T2207A/T2207A/obj/Debug/net7.0/T2207A.GeneratedMSBuildEditorConfig.editorconfig
+/Users/duchoang/Documents/T2207A-ASP/T2207A/T2207A/obj/Debug/net7.0/T2207A.AssemblyInfoInputs.cache
+/Users/duchoang/Documents/T2207A-ASP/T2207A/T2207A/obj/Debug/net7.0/T2207A.AssemblyInfo.cs
+/Users/duchoang/Documents/T2207A-ASP/T2207A/T2207A/obj/Debug/net7.0/T2207A.csproj.CoreCompileInputs.cache
+/Users/duchoang/Documents/T2207A-ASP/T2207A/T2207A/obj/Debug/net7.0/T2207A.dll
+/Users/duchoang/Documents/T2207A-ASP/T2207A/T2207A/obj/Debug/net7.0/refint/T2207A.dll
+/Users/duchoang/Documents/T2207A-ASP/T2207A/T2207A/obj/Debug/net7.0/T2207A.pdb
+/Users/duchoang/Documents/T2207A-ASP/T2207A/T2207A/obj/Debug/net7.0/T2207A.genruntimeconfig.cache
+/Users/duchoang/Documents/T2207A-ASP/T2207A/T2207A/obj/Debug/net7.0/ref/T2207A.dll
