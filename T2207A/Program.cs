@@ -32,30 +32,46 @@ public class Progamn
         //string cmd = Console.ReadLine();
         //Console.WriteLine("Chuoi vua nhap: " + cmd);
 
-        string cmd2 = Console.ReadLine();
-        int n = Convert.ToInt32(cmd2);
-        Console.WriteLine("So vua nhap: " + n);
-        if (isPrimed(n))
-        {
-            Console.WriteLine(n + "la so nguyen to");
-        }
+        //string cmd2 = Console.ReadLine();
+        //int n = Convert.ToInt32(cmd2);
+        //Console.WriteLine("So vua nhap: " + n);
+        //if (isPrimed(n))
+        //{
+        //    Console.WriteLine(n + "la so nguyen to");
+        //}
 
-        List<int> ints = new List<int>();
-        ints.Add(4);
-        ints.Add(10);
-        Student st = new Student();
-        st.Run();
-    }
-    public static bool isPrimed(int n)
-    {
-        if (n < 2)
-            return false;
-        if (n < 4)
-            return true;
-        for (int i = 2; i <= n / 2; i++)
-        {
-            if (n % i == 0) return false;
-        }
-        return true;
+        //List<int> ints = new List<int>();
+        //ints.Add(4);
+        //ints.Add(10);
+        //Student st = new Student();
+        //st.Run();
+        //Console.WriteLine(st.Name); //geter
+        //st.Name = "Nguyen Van An"; //seter
+
+        Human h = new Human();
+        //Human h2 = new Human() { Telephone = "098765442" };
+
+        h.family[0] = "Nguyen ABC";
+        Console.WriteLine(h.family[0]);
+
+        //h2[0] = "Dao";
+        //List<string> strs = new List<string>();
+        //strs.Add("Heloo");
+        //Console.WriteLine(strs[0]);
+
+        //Car c = new Car(); //C# khong co anonymous class
+        //}
+        //public static bool isPrimed(int n)
+        //{
+        //    if (n < 2)
+        //        return false;
+        //    if (n < 4)
+        //        return true;
+        //    for (int i = 2; i <= n / 2; i++)
+        //    {
+        //        if (n % i == 0) return false;
+        //    }
+        //    return true;
+        //}
     }
 }
